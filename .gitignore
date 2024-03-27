@@ -1,3 +1,5 @@
 .idea
 __pycache__/
 .ipynb_checkpoints
+/coco_files/
+/dataset
